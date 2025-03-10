@@ -46,7 +46,7 @@
     "ky": "^0.33.3",
     "libsodium": "0.7.11",
     "libsodium-wrappers": "0.7.11",
-    "prismjs": "^1.29.0",
+    "prismjs": "^1.30.0",
     "semver": "^7.5.4",
     "uuid": "^9.0.0"
   },
